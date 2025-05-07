@@ -29,11 +29,17 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 Fonctionnalités de Base:
 **Navigation Réactive** : Utilisation de React Router pour une navigation fluide entre les pages
+
 **Affichage des Produits** : Grille réactive affichant tous les produits disponibles
+
 **Recherche de Produits** : Barre de recherche permettant de filtrer les produits par nom
+
 **Détails des Produits** : Page dédiée pour chaque produit avec informations détaillées
+
 **Panier d'Achat** : Gestion complete du panier (ajout,suppression,modification des quantités)
+
 **Persistance des Données** : Sauvegarde du panier dans le localStorage pour conservation entre les visites
+
 
 
 Fonctionnalités bonus:
